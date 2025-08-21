@@ -24,17 +24,6 @@ This is a simple To-Do application built using Flutter. It allows users to add, 
 
 ## Getting Started
 
-### Prerequisites
-
-- Flutter SDK installed
-- Dart SDK
-- Hive package dependency (add to `pubspec.yaml`):
-  ```yaml
-  dependencies:
-    hive: ^2.0.0
-    hive_flutter: ^1.1.0
-    path_provider: ^2.0.0
-  ```
 ### Running the App
 
 1. Clone or download this repository.
